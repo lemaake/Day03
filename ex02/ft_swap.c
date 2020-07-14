@@ -12,7 +12,7 @@
 
 #include <unistd.h>
 
-voidft_swap(int *a, int *b);
+voidft_swap(int *a, int *b)
 {
 	char c;
 	c = *a;
